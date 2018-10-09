@@ -1,0 +1,14 @@
+/Users/surasak/src/DataSeed/bin/Debug/netcoreapp2.1/DataSeed.deps.json
+/Users/surasak/src/DataSeed/bin/Debug/netcoreapp2.1/DataSeed.runtimeconfig.json
+/Users/surasak/src/DataSeed/bin/Debug/netcoreapp2.1/DataSeed.runtimeconfig.dev.json
+/Users/surasak/src/DataSeed/bin/Debug/netcoreapp2.1/DataSeed.dll
+/Users/surasak/src/DataSeed/bin/Debug/netcoreapp2.1/DataSeed.pdb
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.csprojAssemblyReference.cache
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.csproj.CoreCompileInputs.cache
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.RazorAssemblyInfo.cache
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.RazorAssemblyInfo.cs
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.AssemblyInfoInputs.cache
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.AssemblyInfo.cs
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.RazorTargetAssemblyInfo.cache
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.dll
+/Users/surasak/src/DataSeed/obj/Debug/netcoreapp2.1/DataSeed.pdb
